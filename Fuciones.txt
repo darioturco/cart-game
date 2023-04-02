@@ -1,0 +1,90 @@
+Especificas:/*num1 siempre es menor o igual a num2*/
+
+Dragon blanco de ojos azules(1) + Paladin del dragon blanco(2) = Dragon campion con paladin azul de ojos blancos(3)
+Gran mosquito(46) + Gran mosquito(46) = El gran mosquito perfecto(47)
+Lampara mistica(48) + Gin solo(49) = Gin el genio de la lampara(50)
+Escorpion metalico(39) + Escorpion metalico(39) = Escorpion de 8 patas(76)
+Escorpion metalico(39) + Escorpion de hielo(40) = Escorpion de 8 patas(76)
+Escorpion de hielo(40) + Escorpion de hielo(40) = Escorpion de 8 patas(76)
+Bateria de 9V(23) + Bateria de 9V(23) = Cortocircuito(78)
+Mago del tiempo(115) + Dragon bebe(116) = Dragon milenario(117)
+Mago del tiempo(115) + Huevo moustroso(148) = Ryu-ran(138)
+Mago del tiempo(115) + Pajaro bebe(299) = Pajaro adulto(300)
+Serpiente de cables(303) + Serpiente de cables(303) = Caballero de las serpientes electricas(304)
+Impachi quemado(318) + Umi(126) = Impachi maderobogtrus(317)
+Cenizas de impachi(319) + Mago del tiempo(115) = Impachi quemado(318)
+Maestro y experto(90) + Gran hombre armadura(342) = Gaia el feroz caballero(376)
+Gaia el feroz caballero(376) + Maldicion del dragon(377) = Gaia el guerrero campeon(378)
+Mamut sombi(381) + Mamut sombi(381) = Mamut de oro fino(382)
+Angel de la luz(488) + Espada viviente de fuego(75) = Espadas de la luz(415)
+Angel de la oscuridad(489) + Espada viviente de fuego(75) = Espadas de la oscuridad(416)
+bombardeo de fuego(414) + bombardeo de fuego(414) = fuego tremendo(451)
+Angel de la luz(488) + Angel de la oscuridad(489) = Angel de la luz oscura(490)
+Semilla de defensa(497) + semilla de ataque(498) = Gran semilla de batalla(499)
+Necro fleur(578) + Mago del tiempo(115) = Fleur(577)
+Mago del tiempo(115) + Bestia bebe(496) = Animaltoboard(580)
+Megamorfismo(253) + Megamorfismo(253) = Tesoro del dragon blanco(600)
+Arpia bebe(470) + Mago del tiempo(115) = Dama arpia(602)
+Diente de dragon(252) + Diente de dragon(252) = Sacrificio del tri-hornet dragon(609)
+Guardian olvidado(347) + murcielagos acesinos(338) = Espacha(616)
+Espada de guerra(270) + Espada de guerra(270) = Sacrificion de las espadas(618)
+Hoja de oro(257) + Hoja de oro(257) = Ritual de la hoja oscura(623)
+Destruccion fundida(265) + Destruccion fundida(265) = Ritual del fuego(633)
+Pendiente oscuro(254) + Maya vaila(146) = Resurrecion de chakra(643)
+Maldicion de anubis(426) + Maldicion de anubis(426) = Ritual del faraon anubis(653)
+"Maestro de la magia negra"(230) + "bolas orbitantes"(392) = mago oscuro(676)
+Electron(683) + Proton(684) = Union atomica(686)
+Gran polilla(715) + Gran polila(715) = Gran polilla perfecta(716)
+Metalmorfismo(268) + Zoa(721) = Metalzoa(722)
+Dragon negro de ojos rojos(727) + Dragon meteoro(728) = Dragon meteoro negro(729)
+Pie 1 de exodia(735) + Pie 2 de exodia(736) = Cadera de exodia(737)
+
+Semispecificas normales:(siempre mayor igual)/*hace dos pasados para resolverlo*/
+
+"Elfa mistica"(30) + mago[=3] = elfa oscura(31)[4]
+"Zombi ral"(694) + electrico = Muerto de la electricidad(63)[5]
+"Zona extra"(18) + ave = Pinguino pesadilla(65)[4]
+"Espada de guerra"(270) + fuego = Espada viviente de fuego(75)[5]
+"Espada viviente de fuego"(75) + guerrero = Espada de fuego(79)[5]
+"Incecto espejo"(464) + mago[<4] = Espejo maldito(340)[6]
+"Ninja armado"(617) + guerrero = Experta en espionaje(349)[3]
+"Experta en espionaje"(349) + electrico = Rai-mei(362)[4]
+"Abanico de los goblin"(440) + zombi = Goblin zombi(386)[4]
+"Kumori dragon"(360) + dragon[<5] = Flauta comboca dragones(404)[0]
+"Unidad de desactivacion de trampas"(394) + mago[<4] = Trampdestroid(424)[0]
+"Fantasma rojo"(637) + magia = Medicina roja(427)[0]
+"Fantasma verde"(636) + magia = Medicina verde(428)[0]
+"Fantasma azul"(635) + magia = Medicina azul(429)[0]
+"El gran monarca de las tormentas A"(526) + magia = El gran monarca de las tormentas M(527)[0]
+"Megamorfismo"(253) + mago = Resurrecion de chakra(643)[0]
+"Laverinto fuerte"(290) + magia = Ritual del laverinto(658)[0]
+"Craneo invocado"(696) + dragon[<4] = Dragon calavera negro(730)[10]
+
+Semispecificas por tipo:(siempre mayor igual)/*num1 es la del tipo mas bajo*/
+
+electrico[<3] + guerrero[<4] = Rey maquina(28)[6]
+ave[<3] + dragon[<2] = Dragon cotorra(34)[5]
+ave[=3] + planta[<4] = Pajaro de rosas(35)[6]
+ave + electrico[<4] = Ave electrica (45)[6]
+ave + bestia[<4] = Ave bestial gigante(53)[6]
+bestia[<2] + planta[<2] = Flawer wolf(54)[5]
+dragon[<5] + mago[<3] = Dragon magico(57)[7]
+ave[=1] + zombi[=1] = Mursielago negro(62)[3]
+bestia[<4] + fuego = Flame cerverus(66)[6]
+agua[<2] + mago[=4] = Mago de agua(68)[6]
+ave[<4] + fuego[=4] = Fenix de nephtys(94)[6]
+agua + fuego[<4] = Craken de fuego(98)[5]
+Bestia[<4] + Guerrero[<4] = Super guerrero leon(712)[8]
+
+No especificas:/*num1 es la del tipo mas bajo*/
+
+electrico + incecto = Escarabajo come electricidad(56)[6]
+ave + incecto = Ave gusano(61)[4]
+guerrero + incecto = Guerrero cucaracha(72)[3]
+agua + electrico = Pinguino electrico(80)[3]
+agua + dragon = Aqua dragon(89)[6]
+agua + planta = Aqua planta(99)[4]
+dragon + zombi = Dragon zombi(100)[3]
+dragon + guerrero = Hombre dragon(106)[4]
+ritual + ritual = Arma de ritual(278)[0]
+agua + bestia = Moustro del pantano negro(294)[4]

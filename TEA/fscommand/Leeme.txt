@@ -1,0 +1,72 @@
+====================================================================
+Base de Datos de Yugioh! forbidden Memories
+Tea 1.6.0.0
+Por K3nny, user VCGI, laFlecha.net, NeoSeeker y GameKult
+====================================================================
+
+En esta version:
+
+1.Datos del Drop en los rangos AS-Pow, AS Tec y BCD P/T, para las versiones
+   * Original
+   * Beta Up2 (2do mod beta)
+   * Mod Final (2do mod de letras rojas) Update al REAPER. (Mod Completo 11)
+   * mOD 13
+
+2. Datos generales
+3. Sub guia de cartas de equipo
+4. Guia de rituales
+5. Guia de oponentes:
+    *DECK (Para la version original y el MOD)
+    *DROP
+
+6. Guia del DECK Inicial
+
+7. Guia de Fusiones PARTE 1 (Solo con la 1ra lista oficial)
+
+8. Mi Deck con StatS
+    *Datos
+    *Deck
+    *Chest
+    *¿Que comprar?
+    *Cartas Faltantes
+    *Fusiones de mi Deck
+
+9. Fondo musical (+1 TEMA)
+10. Botones de copia:
+    *Drop en todos los rangos
+    *Datos generales
+    *Sub guia de equipos
+    *Guia de Rituales
+    *Guia de oponentes Deck/Drop
+    *Guia del deck Inicial.
+    *Guia de Fusiones
+    *Todos los modulos de Mi Deck con StatS
+
+11. Extra:
+    En la portada, mini guia de estrellas guardianes
+
+12. Zona de recopilacion, ingrese con su user y clave.
+
+13. Descarga programas de K3nnY.
+
+====================================================================
+Creditos:
+
+Juego Original: Konami
+Hack: Jeanmetallica & Vinicius
+Hack: Ferchu3333
+Data:VCGI, orkut, MundoMedia.
+Traslate to French: Cedpro1 (GameKult User)
+Correcciones: BlackStar (VCGI)
+Soporte: Adobe Flash CS4
+Data Tea 1.0, diseño y produccion general: K3nny
+
+====================================================================
+Agradecimientos:
+para: VCGI, laFlecha.net, Orkut, NeoSeeker, GameKult, Youtube y Blogger.
+====================================================================
+
+Visita:
+k3nny-yugiohtheforbiddenmemories.blogspot.com
+http://mundomedia.activo.ws
+

@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu_1.unity
+    guid: 5bfcdfbf0e9d7524196245dc0fb9ccdb
+  - enabled: 1
+    path: Assets/Scenes/Manu_2.unity
+    guid: 537b09b76c34c1c479dca3cfaf7fe37e
+  - enabled: 1
+    path: Assets/Scenes/Campaing.unity
+    guid: 58911d51c284c9140b3c0ef6fdabaa16
+  - enabled: 1
+    path: Assets/Scenes/Free_Duel.unity
+    guid: 1d19c1dad7cd59b4b9750f602d3d47eb
+  - enabled: 1
+    path: Assets/Scenes/Library.unity
+    guid: 8c9a1f40a6ed5064fb4e4d35c976d009
+  - enabled: 1
+    path: Assets/Scenes/Passwords.unity
+    guid: 72e2222ac4a018346b530206d0326a7c
+  - enabled: 1
+    path: Assets/Scenes/Arkana.unity
+    guid: c4b2a86400bc95b41bda9a2892bed713
+  - enabled: 1
+    path: Assets/Scenes/Build.unity
+    guid: 7156d3362a49eea41808e565271dcf98
+  - enabled: 1
+    path: Assets/Scenes/Duelo.unity
+    guid: 0a38112d9f8479a4cbd0445fa09f0c3d
+  - enabled: 1
+    path: Assets/Scenes/Fin.unity
+    guid: a1425d3f5fb19a14490d7ddb1ce3f725

@@ -1,0 +1,19 @@
+StatS 1.4 en TEA 1.6
+========================================================================
+
+
+StatS es un lector de memorias de emulador, compatibles con formatos ".mcr", ".bin" y formatos de PSP como ".VMP"
+
+La integracion de este programa mediante el ejecutable Memreader.exe, permite que TEA pueda "leer" los datos de tu memorycard.
+
+
+
+Para ver los datos actulizados de tu memoria es necesario cargarla cada vez que se quiera.
+
+
+IMPORTANTE!!!!
+
+
+Debes crear una copia de seguridad de tu memorycard, esta se puede ver dañada por fallas en el ordenador e incluso puede llegar a borrarse por fallas en la energia.
+
+Memrader.exe no edita ni modifica de ninguna manera tu memorycard.

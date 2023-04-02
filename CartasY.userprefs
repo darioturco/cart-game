@@ -1,0 +1,24 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj" RefactoringSettings.EnableRefactorings="True">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Duelo.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Campaing.cs" Line="358" Column="3" />
+      <File FileName="Assets\Scripts\Libreria.cs" Line="7015" Column="36" />
+      <File FileName="Assets\Scripts\Menu_start.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Free_duel.cs" Line="34" Column="5" />
+      <File FileName="Assets\Scripts\Build_deck.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Over.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Duelo.cs" Line="949" Column="7" />
+      <File FileName="Assets\Scripts\Jugador.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Rival.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Fin.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="D:\Proyectos\CartasY\Assets\Scripts\Libreria.cs" line="206" column="1" />
+      <Breakpoint file="D:\Proyectos\CartasY\Assets\Scripts\Campaing.cs" line="219" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

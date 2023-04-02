@@ -1,0 +1,58 @@
+[Duelo] Aveces cuando se activan efectos el puntero empieza en mi campo
+[Build] Si tengo todas las cartas falla en la lineas 58 con "novedades"
+[Build] Informacion de la carta "Jinzo" (285) incorrecta
+[Build] Solucionar los warnings
+[Duelo] Mejorar como se decide las estrellas que te da el rival (Imitar como hace el FM original)
+[Duelo] Hacer que el rival decida los movimientos por si solo
+[Duelo] Mejorar la pantalla de victoria / Derrota
+[Duelo] Hacer que se pueda configurar la cantida de cartas que te dan al ganar un duelo en Arkana
+[Arkanis] Pensar los minijuegos de Arkanis 
+[Free] Tener un archivo de guardado donde esta el juego al 100%
+[Free] Cambiar las imagenes de los duelistas
+[Campain] Hacer que el juego soporte varios idiomas
+[Campain] Remplazar a Kepura y Anubis por otro mago
+[Menu] Agregar mas efectos de sonido
+[Duelo] Aveces las cartas magia no hacen ningun efecto
+[Duelo] Expandir las artas del deck a 50
+[Duelo] Cuando perdes por subir a la mano una carta que hace que votes cartas cuando sube a la mano, tira error
+[Duelo] Hacer que solo se pueda poner una carta con impertinencia por turno
+[Codigo] Mejorar el codigo
+[Duelo] Cambiar el efecto de "pajaro adulto" (300).
+[Duelo] Hacer que si o si agarres una carta cuando empieza tu turno, para que no existan duelos infinitos.
+[Duelo] El efecto de "Maestro y experto" (90) no se activa aveces.
+[Duelo] Hacer que el efecto de los jarros no sea buscar una carta en el mazo o que sean muy dificiles de obtener (esta demaciado roto)
+[Duelo] Darle una polilla perfecta a Anubis
+[Duelo] Empeorar el efecto de "Fenix de nephtys" (094)
+
+
+---------------------------
+
+Idea para la IA que controla al oponente, que se fije en las siguientes condiciones en ese orden:
+
+	1) Fijarse si puede ganar en un solo turno atacando o con algun efecto
+	2) Si no gana y va a perder en el proximo turno intentar detener eso
+	3) Si Tiene la carta mas poderosa del campo intentar maximizar el dano al oponente
+	4) Si no tiene la carta mas poderosa intentar hacer algo para tenerla
+	5) Si no intentar destruir la carta mas poderosa del oponente
+	6) Fin del turno
+	
+----------------------------
+
+Ideas para Arkana:
+	
+	1) Hacer que se pueda cambiar, con estrellas, la cantidad de cartas que te dan los oponentes.
+	2) Hacer que se pueda modificar el multiplicador de estrellas que dan los oponentes.
+	3) hacer que se puedan triplicar cartas que ya se tienen.
+	4) Hacer que se puedan obtener los codigos de cartas que no se tienen.
+	5) Escribir una guia sobre como funciona los efectos remanencia, inbloquable, impertinencia, etc...
+	6) Hacer que te diga que cartas te puede dar cada rival y con que probabilidades
+	
+--------------------------
+
+	Sobre los jarros: hacer que jarro de los anos viejos solo use su efecto cuando entra en juego, al ciber jarro dejar el efecto igual.
+	Salvo por la parte de votar una carta cuando muere. Hacer que "jarro de los anos antiguos" + "alguna carta futuristica" de 
+	"ciber jarro"
+	
+---------------------------
+
+	Sacar las imagenes de los duelista de https://yugipedia.com/wiki/Portal:Yu-Gi-Oh!_Legacy_of_the_Duelist_characters

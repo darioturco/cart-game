@@ -1,0 +1,161 @@
+0) Maestro del duelo K. -F
+1) Joy -O
+2) Tea -O
+3) Tristan -O
+4) Weavel 
+5) May 
+6) isis 
+7) Orion(1)
+8) Arkanis -O
+9) Bandido Keit
+10) Rex -O
+11) Bacura(1)
+12) Pegasus(1)
+13) Kaiba(1)
+14) Marik(1) -P
+15) Neku
+16) Sebek
+17) Teana -O
+18) Aldeano1 -O
+19) Aldeano2 -O
+20) Aldeano3 -O
+21) Jono -O
+22) Seto(1) -O
+23) Shadi -O
+24) Guardia real -O
+25) A. Agua
+26) Ishizu
+27) A. Ave
+28) Arpuia
+29) A. Bestia
+30) Rebilunus
+31) A. Dragon
+32) Kilgarra
+33) A. Electrico
+34) Elemanus
+35) A. Fuego
+36) Flabirus
+37) A. Guerrero
+38) Kepura
+39) A. Incecto
+40) Aramos
+41) A. Mago
+42) Emris
+43) A. Planta
+44) Becus
+45) A. Roca
+46) Risalus
+47) A. Zombi
+48) Zeromu
+49) Seto(2) -O
+50) Orion(2)
+51) Defenor1
+52) Defenor2 
+53) Defenor3 
+54) Bakura(2) -S
+55) Pegasus(2) -S
+56) Kaiba(2)
+57) Orion(3)
+58) Seto(3)
+59) Marik(2)
+
+-F = solo free duel
+-O = rival opcional
+-P = Duelo que se pierde
+-S = duelo que se lo podes dejar a seto
+
+Son 60 duelos en total(con maestro del duelo K)
+
+/*Historia*/
+La historia empieza con Yugi despertando para ir al torneo. En la apertura conocen a un extraño sujeto llamado Marik acompañado e su hermano orion
+Luego se definen los grupos Yugi pasa de la fase de grupos y se entera que los duelistas contra los que se enfrento Marik perdieron y desaparecieron.
+El le pregunta a Marik que paso y Orion lo interrumpe retandolo a un duelo de las sombras.
+Duelo que Orion pierde y queda encerrado en el rompecabezas de Yugi, Marik promete vengarse. Yugi continua con el torneo y le gana a sus rivales hasta llegar a la final.
+Apartir de este momento podes ir a enfrentarte contra Arkanis.
+En el camino Yugi vuelve a recolectar las objetos del mileño que fueron todos repartidos por seto hace un año.
+La final contra Marik, se convierte en un duelo de las sombras y es perdida por Yugi(Si ganas este duelo la campaña se temina antes de tiempo)
+Al perder Marik gana todos los objetos del mileño, Yugi queda encerrado en el rompecabesas y libera a Orion.
+Ante esto el va al pasado con ayuda del espiritu de Simon Muran. Al llegar va al palacio pero por seguridad no lo dejan pasar.
+Tras bencer a los dos guardias se encuentra con Atem y le pide ayuda.
+Este le dice que reunira los objetos para ir al futuro y detener a Marik.
+Para hacer esto necesita ganarle a los magos de cada elemento para que le den las piesas para entrar a la camara donde se guardan los objetos del mileño.
+Apartir de este momento te podes enfrentar a Tea, Jono, Aldeano1, 2 y 3. Al ganarles a estos podes ir a buscar a Seto a las ruinas.
+Cuando le ganas a 3 Magos podes enfrentarte a Shadi en el Valle de los reyes caidos.
+Cuando le ganes a 8 Magos podes enfrentarte al guardia real.
+Una vez ganados todos los magos y sus aprendices se abre la puerta y agarran los objetos del mileño.
+Si le ganaste a seto este pide ir con ellos para redimirse pero Atem no confia y lo reta a un duelo.
+Cuando llegan a la epoca de Yugi ven como el mundo es un caos, es el Imperio de Marik.
+Estos son recibidos por Orion y tienen un duelo(si estas con seto podes dejarle el duelo a Seto).
+Tras ganarle a Orion los tres defensores de Marik te retan en un grupo.
+Al ver que estos pierden Marik llama a sus tres mejores rivales y te hace enfrentartelos uno por uno en un duelo de las sombras.
+Primero Bakura despues Pegasus y despues Kaiba todos podeidos por la magia de Marik.
+Despues de ganarle si estas con Seto el mismo Marik lo reta a un duelo de las sombras y Orion te reta a un duelo igual.
+Despues de tu victoria Seto pierde ante Marik. Este lo controla y hace que se enfrente contra vos.
+Luego de ganarle solo quedan Yugi/Atem y Marik.
+Estos se enfrentan en el duelo final ganando Yugi/Atem, concigiendo los objetos del mileño y restableciendo todo el mundo a la normalidad.
+Marik y Orion quedan encerrados en el rompecabezas del mileño que es desarmado y sellado con el nombre de 'Yugi'.
+Luego Atem y Seto vuelven a la epoca donde pertenecen y termina el juego en paz.
+
+
+
+
+"Maestro del duelo K.";
+"Joy";
+"Tea";
+"Tristan";
+"Weavel";
+"May";
+"Isis";
+"Orion 1";
+"Arkanis";
+"Bandido Keit";
+"Rex";
+"Bakura 1";
+"Pegasus 1";
+"Kaiba 1";
+"Marik 1";
+"Neku";
+"Sebek";
+"Teana";
+"Aldeano 1";
+"Aldeano 2";
+"Aldeano 3";
+"Jono";
+"Seto 1";
+"Shadi";
+"Guardia Real";
+"Aprendiz Agua";
+"Ishizu";
+"Aprendiz Ave";
+"Arpuia";
+"Aprendiz Bestia";
+"Rebilunus";
+"Aprendiz Dragon";
+"Kilgarra";
+"Aprendiz Electrico";
+"Elemanus";
+"Aprendiz Fuego";
+"Flabirus";
+"Aprendiz Guerrero";
+"Kepura";
+"Aprendiz Incecto";
+"Aramos";
+"Aprendiz Mago";
+"Emris";
+"Aprendiz Planta";
+"Becus";
+"Aprendiz Roca";
+"Risalus";
+"Aprendiz Zombi";
+"Zeromu";
+"Seto 2";
+"Orion 2";
+"Andro";
+"Teleia";
+"Theinen";
+"Bakura 2";
+"Pegasus 2";
+"Kaiba 2";
+"Orion 3";
+"Seto 3";
+"Marik 2";
